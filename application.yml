@@ -7,7 +7,7 @@ eureka:
     instance:
         hostname: localhost 
  
- microservices:
+ microservice:
     payment-service:
         endpoints:
             endpoint:
